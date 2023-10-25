@@ -6,6 +6,6 @@
 
 </head>
 <body style="background-color:aqua;text-align:center">
-<h1>Congratulations!!! Welcome to the World of DevOps</h1>
+<h1>Congratulations!!! SUCCESSFULly deployment of first .war file</h1>
 </body>
 </html>
